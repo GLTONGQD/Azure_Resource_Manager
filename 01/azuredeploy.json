@@ -11,7 +11,7 @@
         },
         "CostCenterIO": {
             "type": "string",
-            "defaultValue": "1234566",
+            "defaultValue": "1234567",
             "metadata": {
                 "description": "Cost Center IO number for cross billing"
             }
